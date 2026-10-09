@@ -14,7 +14,7 @@ export const projects: Link[] = [
 export const experience: { when: string; title: string; company: Link }[] = [
   { when: 'resu protocol', title: 'cf / cto', company: { label: 'risk tranches', href: 'https://resufi.github.io/landing/' } },
   { when: 'syde.fi', title: 'ex cf / cto', company: { label: 'synts', href: 'https://syde.fi/' } },
-  { when: 'dedust / vertus / papaya / & more', title: 'sc dev', company: { label: 'my cv', href: 'https://github.com/fivestarsfi/card/src/public/cv.pdf' } },
+  { when: 'dedust / vertus / papaya / & more', title: 'sc dev', company: { label: 'my cv', href: 'https://github.com/fivestarsfi/card/blob/main/src/public/cv.pdf' } },
 ]
 
 export const socials: { text: string; link: Link }[] = [
